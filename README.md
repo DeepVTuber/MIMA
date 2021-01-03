@@ -1,5 +1,5 @@
 
-<img src="ui/mima.png" align="right" alt="TimeWarp" width="280"/>
+<img src="ui/unnamed.jpg" align="right" alt="MIMA" width="280"/>
 
 # 時雨菲MiMa
 
