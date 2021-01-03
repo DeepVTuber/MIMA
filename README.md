@@ -1,9 +1,8 @@
+<img src="ui/unnamed.jpg" align="right" alt="MIMA" width="120"/>
 
-<img src="ui/unnamed.jpg" align="right" alt="MIMA" width="280"/>
+# 時雨菲 MiMa
 
-# 時雨菲MiMa
-
-OpenVTuber-虚拟アイドル共享计划
+OpenVTuber - 虚拟アイドル共享计划
 
 <br>
 <div align="center">
