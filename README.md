@@ -1,4 +1,4 @@
-<img src="ui/unnamed.jpg" align="right" alt="MIMA" width="120"/>
+<img src="ui/unnamed.jpg" align="left" alt="MIMA" width="120"/>
 
 # 時雨菲 MiMa
 
