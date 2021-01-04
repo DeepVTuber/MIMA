@@ -33,12 +33,12 @@ OpenVTuber - 虚拟アイドル共享计划
     <tr>
         <td>"Angel Of Your Heart" / "Angel Of Love" English Version)" </td>
         <td><a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">mp4</a></td>
-        <td><a href="https://music.163.com/song?id=1425373&userid=96635261">mp3</a></td>
+        <td><a href="res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3">mp3</a></td>
     </tr>    
     <tr>
         <td>"一人でも平気" / "Alone But At Ease" </td>
         <td><a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">mp4</a></td>
-        <td><a href="res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3">mp3</a></td>
+        <td><a href="https://music.163.com/song?id=28442045&userid=96635261">mp3</a></td>
     </tr> 
 </table>
 
