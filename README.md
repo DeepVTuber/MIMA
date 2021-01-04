@@ -16,11 +16,11 @@ OpenVTuber - 虚拟アイドル共享计划
 
 <h3> "愛の天使" / "Angel Of Love"   &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=p7Q0SzRQTBc">video</a> | <a href="https://music.163.com/song?id=28442044&userid=96635261">audio</a> </h3>  
 
-<h3> "想い出に抱かれて今は" / "Cherish These Moments" &nbsp; &nbsp; [video](https://www.youtube.com/watch?v=zXJtRmIDxjs) [audio](https://music.163.com/song?id=28442050&userid=96635261)</h3>
+<h3> "想い出に抱かれて今は" / "Cherish These Moments" &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=zXJtRmIDxjs">video</a> | <a href="https://music.163.com/song?id=28442050&userid=96635261">audio</a> </h3>
 
-<h3> "Angel Of Your Heart ("Angel Of Love" English Version)"  &nbsp; &nbsp; [video](https://www.youtube.com/watch?v=eYOLCrQ8Hp8) [audio](https://music.163.com/song?id=1425373&userid=96635261)</h3>
+<h3> "Angel Of Your Heart ("Angel Of Love" English Version)"  &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">video</a> | <a href="https://music.163.com/song?id=1425373&userid=96635261">audio</a></h3>
 
-<h3> "一人でも平気" / "Alone But At Ease" &nbsp; &nbsp; [video](https://www.youtube.com/watch?v=eYOLCrQ8Hp8) [audio](res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3)</h3>
+<h3> "一人でも平気" / "Alone But At Ease" &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">video</a> | <a href="res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3">audio</a></h3>
 
 <br>
 <div align="center">
