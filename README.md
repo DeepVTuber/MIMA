@@ -9,6 +9,7 @@ OpenVTuber - 虚拟アイドル共享计划
     <img src="ui/Perfect BLUE.png" alt="Perfect Blue ">
     <br>"Perfect Blue" OST (by Masahiro Ikumi)
 </div>
+<br>
 
 <img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="right" alt="MIMA" width="120"/>
 <h2>MIMA'S ROOM</h2>
