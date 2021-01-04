@@ -31,10 +31,10 @@ OpenVTuber - 虚拟アイドル共享计划
             "愛の天使" / "Angel Of Love" 
         </td>
         <td>
-            <a href="https://www.youtube.com/watch?v=p7Q0SzRQTBc">video</a>
+            <a href="https://www.youtube.com/watch?v=p7Q0SzRQTBc">mp4</a>
         </td>
         <td>
-            <a href="https://music.163.com/song?id=28442044&userid=96635261">audio</a>
+            <a href="https://music.163.com/song?id=28442044&userid=96635261">mp3</a>
         </td>
     </tr>
     <tr>
@@ -42,21 +42,21 @@ OpenVTuber - 虚拟アイドル共享计划
             "想い出に抱かれて今は" / "Cherish These Moments"
         </td>
         <td>
-            <a href="https://www.youtube.com/watch?v=zXJtRmIDxjs">video</a>
+            <a href="https://www.youtube.com/watch?v=zXJtRmIDxjs">mp4</a>
         </td>
         <td>
-            <a href="https://music.163.com/song?id=28442050&userid=96635261">audio</a>
+            <a href="https://music.163.com/song?id=28442050&userid=96635261">mp3</a>
         </td>
     </tr>
     <tr>
         <td>
-            "Angel Of Your Heart ("Angel Of Love" English Version)" 
+            "Angel Of Your Heart" / "Angel Of Love" English Version)" 
         </td>
         <td>
-            <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">video</a>
+            <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">mp4</a>
         </td>
         <td>
-            <a href="https://music.163.com/song?id=1425373&userid=96635261">audio</a>
+            <a href="https://music.163.com/song?id=1425373&userid=96635261">mp3</a>
         </td>
     </tr>    
     <tr>
@@ -64,10 +64,10 @@ OpenVTuber - 虚拟アイドル共享计划
             "一人でも平気" / "Alone But At Ease"
         </td>
         <td>
-            <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">video</a>
+            <a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">mp4</a>
         </td>
         <td>
-            <a href="res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3">audio</a>
+            <a href="res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3">mp3</a>
         </td>
     </tr> 
 </table>
