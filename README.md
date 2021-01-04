@@ -6,7 +6,7 @@ OpenVTuber - 虚拟アイドル共享计划
 
 <br>
 <div align="center">
-    <img src="ui/Pefect BLUE.jpg" alt="Perfect Blue ">
+    <img src="ui/Pefect BLUE.png" alt="Perfect Blue ">
     <br>"Perfect Blue" OST (by Masahiro Ikumi)
 </div>
 
@@ -23,7 +23,7 @@ OpenVTuber - 虚拟アイドル共享计划
 "Perfect Blue" OST (by Masahiro Ikumi) <br>[video](https://www.youtube.com/watch?v=eYOLCrQ8Hp8) [audio](https://music.163.com/song?id=1425373&userid=96635261)
 
 ### "Angel Of Your Heart ("Angel Of Love" English Version)"
-"Perfect Blue" OST (by Masahiro Ikumi) <br>[video](https://www.youtube.com/watch?v=eYOLCrQ8Hp8) [audio](Angel Of Your Heart.mp3)
+"Perfect Blue" OST (by Masahiro Ikumi) <br>[video](https://www.youtube.com/watch?v=eYOLCrQ8Hp8) [audio](res/audio/'Angel Of Your Heart ('Angel Of Love' English Version)' - 'Perfect Blue' OST (by Masahiro Ikumi).mp3)
 
 <br>
 <div align="center">
