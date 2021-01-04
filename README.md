@@ -6,7 +6,7 @@ OpenVTuber - 虚拟アイドル共享计划
 
 <br>
 <div align="center">
-    <img src="ui/Pefect BLUE.png" alt="Perfect Blue ">
+    <img src="ui/Perfect BLUE.png" alt="Perfect Blue ">
     <br>"Perfect Blue" OST (by Masahiro Ikumi)
 </div>
 
