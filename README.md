@@ -14,7 +14,7 @@ OpenVTuber - 虚拟アイドル共享计划
 <img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="right" alt="MIMA" width="120"/>
 <h2>MIMA'S ROOM</h2>
 
-<h3> "愛の天使" / "Angel Of Love" </h3> <br> <a href="https://www.youtube.com/watch?v=p7Q0SzRQTBc">video</a> | <a href="https://music.163.com/song?id=28442044&userid=96635261">audio</a>
+<h3> "愛の天使" / "Angel Of Love" </h3>  <a href="https://www.youtube.com/watch?v=p7Q0SzRQTBc">video</a> | <a href="https://music.163.com/song?id=28442044&userid=96635261">audio</a>
 
 
 <h3> "愛の天使" / "Angel Of Love" </h3> <br> [video](https://www.youtube.com/watch?v=p7Q0SzRQTBc&list=LL&index=1) [audio](https://music.163.com/song?id=28442044&userid=96635261)
