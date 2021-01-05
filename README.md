@@ -13,7 +13,7 @@ OpenVTuber - 虚拟アイドル共享计划
 
 <img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="right" alt="MIMA" width="120"/>
 
-<h2>MIMA'S ROOM<br>未麻の部屋</h2>
+<h2>MIMA'S ROOM<br>未麻の部屋 | 藍色恐俱</h2>
 
 <table>
     <tr>
@@ -70,25 +70,46 @@ OpenVTuber - 虚拟アイドル共享计划
 
 ## 相関連番 / Related
 <table>
-    <tr>
+    <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
         <td style="text-align: center"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGLEJXIKZGOt7uYJbfCGO22ddYt3xQkOsdsqgadsXA5agQZo04" alt="Paprika 2006" width="300"</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
+        <td>MIMA'S ROOM | 未麻の部屋</td>
         <td>Paprika | 红辣椒</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp4</a></td>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
         <td></td>
         <td></td>
     </tr>
 </table>
-
 <br>
-<div align="center">
-    <img src="https://pics1.beautyyu.top/origin/IMG_20190616_120418_1.jpg" alt="MiMa profile">
+
+## 海報 / ポスター
+<table>
+    <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/l/public/p2618180105.webp" alt="未麻の部屋" width="300"</td>
+        <td><img src="https://img9.doubanio.com/view/photo/l/public/p693713454.webp" alt="未麻の部屋" width="300"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center"><img src="https://img1.doubanio.com/view/photo/l/public/p2618180088.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/l/public/p2618180064.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img1.doubanio.com/view/photo/l/public/p2532554698.webp" alt="未麻の部屋" width="300"</td>
+    </tr>
+    <tr>
+        <td style="text-align: center"><img src="https://img1.doubanio.com/view/photo/l/public/p1026819798.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img1.doubanio.com/view/photo/l/public/p2513374019.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p2024899393.webp" alt="未麻の部屋" width="300"</td> 
+    </tr>
+    <tr>
+        <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/l/public/p2513374035.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img3.doubanio.com/view/photo/l/public/p610134030.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/m/public/p608839686.webp" alt="未麻の部屋" width="300"</td>
+    </tr>
 </div>
 
