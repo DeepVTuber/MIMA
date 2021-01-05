@@ -39,7 +39,32 @@ OpenVTuber - 虚拟アイドル共享计划
         <td>"一人でも平気" / "Alone But At Ease" </td>
         <td><a href="https://www.youtube.com/watch?v=eYOLCrQ8Hp8">mp4</a></td>
         <td><a href="https://music.163.com/song?id=28442045&userid=96635261">mp3</a></td>
-    </tr> 
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>寄明月 - SING女團</td>
+        <td><a href="https://www.youtube.com/watch?v=49d95ni5J9Y">mp4</a></td>
+        <td><a href="http://bd.kuwo.cn/play_detail/85455449?from=baidu">mp3</a></td>
+    </tr>
+    <tr>
+        <td>神谕法则 - SING女團</td>
+        <td><a href="https://www.bilibili.com/video/av34510262/">mp4</a></td>
+        <td><a href="http://bd.kuwo.cn/play_detail/54734362">mp3</a></td>
+    </tr>
+    <tr>
+        <td>东京夏日相会</td>
+        <td>[<a href="https://www.bilibili.com/video/BV1Zk4y1y7ji?from=search&seid=14483713028887372940">mp4</a>] | [<a href="https://www.bilibili.com/video/BV1Fx411Y7oZ?from=search&seid=14483713028887372940">mp4</a>]</td>
+        <td><a href="http://bd.kuwo.cn/play_detail/66325620">mp3</a></td>
+    </tr>
+    <tr>
+        <td>TOKYO GIRL - Perfume/電音香水</td>
+        <td>[<a href="https://www.youtube.com/watch?v=vxl4gsvgEQY">MV</a>] | [<a href="https://www.youtube.com/watch?v=9pjtVUZNfWY">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp3</a></td>
+    </tr>
 </table>
 
 <br>
