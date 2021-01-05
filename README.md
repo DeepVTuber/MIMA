@@ -136,6 +136,7 @@ OpenVTuber - 虚拟アイドル共享计划
 
 ## ライセンス / LICENCE
 
+<br>
 
 ## 助ける / CONTRIBUTE
 
