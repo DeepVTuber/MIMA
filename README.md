@@ -140,4 +140,4 @@ OpenVTuber - 虚拟アイドル共享计划
 
 ## 助ける / CONTRIBUTE
 
-Feel free to have <a href="https://github.com/DeepVTuber/MIMA/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/DeepVTuber/MIMA/issues" target="_blank">issues 💭</a>
+Feel free to pull <a href="https://github.com/DeepVTuber/MIMA/requests" target="_blank">requests 💬</a> or <a href="https://github.com/DeepVTuber/MIMA/issues" target="_blank">issues 💭</a>
