@@ -6,8 +6,8 @@ OpenVTuber - 虚拟アイドル共享计划
 
 <br>
 <div align="center">
-    <img src="ui/Perfect BLUE.png" alt="Perfect Blue ">
-    <br>"Perfect Blue" OST (by Masahiro Ikumi)
+    <img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F0502%2Fa0853eecp00q9pd8o00dhd200j400arg00ic00ab.png&thumbnail=650x2147483647&quality=80&type=jpg" alt="Perfect Blue ">
+    <br><i>"Perfect Blue" OST (by Masahiro Ikumi)</i>
 </div>
 <br>
 
@@ -106,22 +106,23 @@ OpenVTuber - 虚拟アイドル共享计划
 
 ## 相関連番 / Related
 <table>
-    <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
+    <tr>
         <td style="text-align: center"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGLEJXIKZGOt7uYJbfCGO22ddYt3xQkOsdsqgadsXA5agQZo04" alt="Paprika 2006" width="300"</td>
-        <td></td>
-        <td></td>
+        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_F9iIL7TKDnPMnNODxvceqlWIpSTJiDPfF9nBl_WzsRnz9mr3" alt="東京教父" width="300"</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ee/Sennenyoyu.jpg/220px-Sennenyoyu.jpg" alt="千年女優" width="300"</td>
+        <td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p906689323.webp" alt="大都會" width="300"</td>   
     </tr>
     <tr>
-        <td>MIMA'S ROOM | 未麻の部屋</td>
-        <td>Paprika | 红辣椒</td>
-        <td></td>
-        <td></td>
+        <td style="text-align: center">Paprika | 红辣椒</td>
+        <td style="text-align: center">東京教父</td>
+        <td style="text-align: center">千年女優</td>
+        <td style="text-align: center">大都會</td>
     </tr>
     <tr>
         <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
         <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
-        <td></td>
-        <td></td>
+        <td>🎥 movie</td>
+        <td>🎥 movie</td>
     </tr>
 </table>
 <br>
