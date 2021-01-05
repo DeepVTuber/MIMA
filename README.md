@@ -72,11 +72,16 @@ OpenVTuber - 虚拟アイドル共享计划
 <table>
     <tr>
         <td style="text-align: center"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGLEJXIKZGOt7uYJbfCGO22ddYt3xQkOsdsqgadsXA5agQZo04" alt="Paprika 2006" width="300"</td>
-        <td>Paprika | 红辣椒</td>
-        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp4</a></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
+        <td>Paprika | 红辣椒</td>
         <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp4</a></td>
         <td></td>
         <td></td>
     </tr>
