@@ -52,6 +52,11 @@ OpenVTuber - 虚拟アイドル共享计划
         <td><a href="http://bd.kuwo.cn/play_detail/85455449?from=baidu">mp3</a></td>
     </tr>
     <tr>
+        <td>如夢令MV - SING女團</td>
+        <td><a href="https://www.youtube.com/watch?v=cYfTlpDvqMQ">mp4</a></td>
+        <td><a href="https://www.kugou.com/song/i6igb83.html#hash=AA1DB09EF7BFD782D6BE2F6A2762A9F1&album_id=4691375">mp3</a></td>
+    </tr>
+    <tr>
         <td>神谕法则 - SING女團</td>
         <td><a href="https://www.bilibili.com/video/av34510262/">mp4</a></td>
         <td><a href="http://bd.kuwo.cn/play_detail/54734362">mp3</a></td>
