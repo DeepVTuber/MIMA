@@ -1,6 +1,6 @@
 <img src="ui/unnamed.jpg" align="left" alt="MIMA" width="120"/>
 
-# 時雨菲 MiMa
+# 未麻 MIMA
 
 OpenVTuber - 虚拟アイドル共享计划
 
@@ -69,7 +69,7 @@ OpenVTuber - 虚拟アイドル共享计划
 </table>
 <br>
 
-## 海報 / ポスター
+## 海報 / ポスター / Poster
 <table>
     <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
         <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/l/public/p2618180105.webp" alt="未麻の部屋" width="300"</td>
@@ -91,6 +91,17 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/m/public/p608839686.webp" alt="未麻の部屋" width="300"</td>
     </tr>
 </table>
+<br>
+
+## 影評 / 映画レビュー / Film Reviews
+[1] [怎样解读《未麻的部屋》这部电影？](https://www.zhihu.com/question/22878180)
+[2] [《未麻的部屋》全面解析——只为逃离现实而做的黄粱美梦](https://movie.douban.com/review/6696098/)
+[2] []()
+[2] []()
+[2] []()
+[2] []()
+[1] [如何解读今敏的作品 《红辣椒》（Paprika）？](https://www.zhihu.com/question/29361830)
+[2] [贾天白. 红辣椒：「虚拟」和「现实」的边界](http://reader.epubee.com/books/mobile/7b/7b997b3ee545c1a23b519b2fe277e58c/text00006.html)
 <br>
 
 ## 相関連番 / Related
