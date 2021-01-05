@@ -67,27 +67,6 @@ OpenVTuber - 虚拟アイドル共享计划
         <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp3</a></td>
     </tr>
 </table>
-
-## 相関連番 / Related
-<table>
-    <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
-        <td style="text-align: center"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGLEJXIKZGOt7uYJbfCGO22ddYt3xQkOsdsqgadsXA5agQZo04" alt="Paprika 2006" width="300"</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>MIMA'S ROOM | 未麻の部屋</td>
-        <td>Paprika | 红辣椒</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
-        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
 <br>
 
 ## 海報 / ポスター
@@ -111,5 +90,27 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center"><img src="https://img3.doubanio.com/view/photo/l/public/p610134030.webp" alt="未麻の部屋" width="300"</td>
         <td style="text-align: center"><img src="https://img9.doubanio.com/view/photo/m/public/p608839686.webp" alt="未麻の部屋" width="300"</td>
     </tr>
-</div>
+</table>
+<br>
 
+## 相関連番 / Related
+<table>
+    <tr><td style="text-align: center"><img src="https://img2.doubanio.com/view/photo/l/public/p1351050722.webp" alt="未麻の部屋" width="300"</td>
+        <td style="text-align: center"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGLEJXIKZGOt7uYJbfCGO22ddYt3xQkOsdsqgadsXA5agQZo04" alt="Paprika 2006" width="300"</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MIMA'S ROOM | 未麻の部屋</td>
+        <td>Paprika | 红辣椒</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
+        <td><a href="https://music.163.com/song?id=456185555&userid=96635261">🎥 movie</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<br>
