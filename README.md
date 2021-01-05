@@ -1,4 +1,4 @@
-<img src="ui/unnamed.jpg" align="left" alt="MIMA" width="120"/>
+<img src="https://img2.doubanio.com/view/photo/l/public/p2024899393.webp" align="left" alt="MIMA" width="120"/>
 
 # 未麻 MIMA
 
@@ -94,14 +94,21 @@ OpenVTuber - 虚拟アイドル共享计划
 <br>
 
 ## 影評 / 映画レビュー / Film Reviews
+
 [1] [怎样解读《未麻的部屋》这部电影？](https://www.zhihu.com/question/22878180)
+
 [2] [《未麻的部屋》全面解析——只为逃离现实而做的黄粱美梦](https://movie.douban.com/review/6696098/)
-[2] [《未麻的部屋》到底是个怎样的故事](https://zhuanlan.zhihu.com/p/69719008)
-[2] [《未麻的部屋》全面解析——只为逃离现实而做的](https://tieba.baidu.com/p/3093447216)
-[2] [《未麻的部屋》——吃人的不止旧社会，还有娱乐圈](https://zhuanlan.zhihu.com/p/36029152)
-[2] []()
-[1] [如何解读今敏的作品 《红辣椒》（Paprika）？](https://www.zhihu.com/question/29361830)
-[2] [贾天白. 红辣椒：「虚拟」和「现实」的边界](http://reader.epubee.com/books/mobile/7b/7b997b3ee545c1a23b519b2fe277e58c/text00006.html)
+
+[3] [《未麻的部屋》到底是个怎样的故事](https://zhuanlan.zhihu.com/p/69719008)
+
+[4] [《未麻的部屋》全面解析——只为逃离现实而做的](https://tieba.baidu.com/p/3093447216)
+
+[5] [《未麻的部屋》——吃人的不止旧社会，还有娱乐圈](https://zhuanlan.zhihu.com/p/36029152)
+
+[6] [如何解读今敏的作品 《红辣椒》（Paprika）？](https://www.zhihu.com/question/29361830)
+
+[7] [贾天白. 红辣椒：「虚拟」和「现实」的边界](http://reader.epubee.com/books/mobile/7b/7b997b3ee545c1a23b519b2fe277e58c/text00006.html)
+
 <br>
 
 ## 相関連番 / Related
