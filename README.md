@@ -1,4 +1,4 @@
-<img src="https://img2.doubanio.com/view/photo/l/public/p2024899393.webp" align="left" alt="MIMA" width="120"/>
+<img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="left" alt="MIMA" width="120"/>
 
 # 未麻 MIMA
 
@@ -11,7 +11,7 @@ OpenVTuber - 虚拟アイドル共享计划
 </div>
 <br>
 
-<img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="right" alt="MIMA" width="120"/>
+<img src="https://img2.doubanio.com/view/photo/l/public/p2024899393.webp" align="right" alt="MIMA" width="120"/>
 
 <h2>MIMA'S ROOM<br>未麻の部屋 | 藍色恐俱</h2>
 
@@ -133,3 +133,10 @@ OpenVTuber - 虚拟アイドル共享计划
     </tr>
 </table>
 <br>
+
+## ライセンス / LICENCE
+
+
+## 助ける / CONTRIBUTE
+
+Feel free to have <a href="https://github.com/Charmve/TimeWarp/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/TimeWarp/issues" target="_blank">issues 💭</a>
