@@ -1,6 +1,6 @@
 <img src="ui/unnamed.jpg" align="left" alt="MIMA" width="120"/>
 
-# 時雨菲 MiMa　<br>未麻の部屋
+# 時雨菲 MiMa
 
 OpenVTuber - 虚拟アイドル共享计划
 
@@ -12,7 +12,8 @@ OpenVTuber - 虚拟アイドル共享计划
 <br>
 
 <img src="https://yt3.ggpht.com/ytc/AAUvwnjVAc7xqJqG-LO1T1z82pXh5eppiu629TcdVVfP=s88-c-k-c0x00ffffff-no-rj" align="right" alt="MIMA" width="120"/>
-<h2>MIMA'S ROOM</h2>
+
+<h2>MIMA'S ROOM<br>未麻の部屋</h2>
 
 <table>
     <tr>
