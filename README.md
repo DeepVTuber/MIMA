@@ -76,7 +76,7 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center">[<a href="https://music.163.com/song?id=456185555&userid=96635261">mp3</a>]</td>
     </tr>
     <tr>
-        <td>【双笙】Shuang Sheng - 心做し/Kokoronashi　</td>
+        <td>心做し/Kokoronashi - 双笙 / Shuang Sheng</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=NFVWSq_H6n0">MV</a>]</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/27088269">mp3</a>]</td>
     </tr>
