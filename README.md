@@ -71,6 +71,61 @@ OpenVTuber - 虚拟アイドル共享计划
         <td>[<a href="https://www.youtube.com/watch?v=vxl4gsvgEQY">MV</a>] | [<a href="https://www.youtube.com/watch?v=9pjtVUZNfWY">mp4</a>]</td>
         <td><a href="https://music.163.com/song?id=456185555&userid=96635261">mp3</a></td>
     </tr>
+    <tr>
+        <td>【双笙】Shuang Sheng - 心做し/Kokoronashi　</td>
+        <td>[<a href="https://www.youtube.com/watch?v=NFVWSq_H6n0">MV</a>]</td>
+        <td><a href="http://bd.kuwo.cn/play_detail/27088269">mp3</a></td>
+    </tr>
+    <tr>
+        <td>生きていたんだよな－あいみょん</td>
+        <td>[<a href="https://www.youtube.com/watch?v=EEMwA8KZAqg">MV</a>]　</td>
+        <td><a href="https://music.163.com/song?id=443875380&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>僕が死のうと思ったのは－中島美嘉</td>
+        <td>[<a href="https://www.youtube.com/watch?v=QL3T2Nzcqcs">Live</a>] </td>
+        <td>[<a href="https://music.163.com/song?id=26830207&userid=96635261">mp3</a>] | [<a href="https://www.youtube.com/watch?v=CB1ws_nXDXU">mp3</a>]</td>
+    </tr>
+    <tr>
+        <td>おねがいダーリン－莉犬</td>
+        <td>[<a href="https://www.youtube.com/watch?v=vxl4gsvgEQY">MV</a>] | [<a href="https://www.youtube.com/watch?v=9pjtVUZNfWY">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=1323301350&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>是想你的声音啊－傲七爷</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=1459950258&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>02的爱恋－多多poi (Cover 约谈人参)</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=1459950258&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>歳月-雲流れ-Foxtail-Grass Studio</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=730631&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>朝焼けと熱帯魚 - ぼくのりりっくのぼうよみ</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=529814551&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>君がくれたもの / Secret Base - 茅野愛衣 / 戸松遥</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=33911781&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>いつも何度でも - 伊藤サチコ</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=584155&userid=96635261">mp3</a></td>
+    </tr>
+    <tr>
+        <td>風の住む街 - 磯村由紀子</td>
+        <td>[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
+        <td><a href="https://music.163.com/song?id=586299&userid=96635261">mp3</a></td>
+    </tr>
 </table>
 <br>
 
