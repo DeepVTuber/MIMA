@@ -46,6 +46,10 @@ OpenVTuber - 虚拟アイドル共享计划
         <td></td>
         <td></td>
     </tr>
+</table>
+
+### 推薦音樂 / MUSIC LIST 
+<table>
     <tr>
         <td>寄明月 - SING女團</td>
         <td><a href="https://www.youtube.com/watch?v=49d95ni5J9Y">mp4</a></td>
