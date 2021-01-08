@@ -66,7 +66,7 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/54734362">mp3</a>]</td>
     </tr>
     <tr>
-        <td>极乐净土 / 極樂淨土－Garnidelia</td>
+        <td>极乐净土 / 極楽浄土 カラオケ－Garnidelia</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=EEMwA8KZAqg">MV</a>]　</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/73008313">mp3</a>]</td>
     </tr>
