@@ -51,17 +51,17 @@ OpenVTuber - 虚拟アイドル共享计划
 ### 推薦音樂 / MUSIC LIST 
 <table>
     <tr>
-        <td>寄明月 - SING女團</td>
+        <td>寄明月 - SING 女團</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=49d95ni5J9Y">mp4</a>]</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/85455449?from=baidu">mp3</a>]</td>
     </tr>
     <tr>
-        <td>如夢令MV - SING女團</td>
+        <td>如夢令MV - SING 女團</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=cYfTlpDvqMQ">mp4</a>]</td>
         <td style="text-align: center">[<a href="https://www.kugou.com/song/i6igb83.html#hash=AA1DB09EF7BFD782D6BE2F6A2762A9F1&album_id=4691375">mp3</a>]</td>
     </tr>
     <tr>
-        <td>神谕法则 - SING女團</td>
+        <td>神谕法则 - SING 女團</td>
         <td style="text-align: center">[<a href="https://www.bilibili.com/video/av34510262/">mp4</a>]</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/54734362">mp3</a>]</td>
     </tr>
@@ -71,12 +71,12 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/66325620">mp3</a>] | [<a href="https://music.163.com/song?id=409031156&userid=96635261">mp3</a>]</td>
     </tr>
     <tr>
-        <td>TOKYO GIRL - Perfume/電音香水</td>
+        <td>TOKYO GIRL - Perfume / 電音香水</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=vxl4gsvgEQY">MV</a>] | [<a href="https://www.youtube.com/watch?v=9pjtVUZNfWY">mp4</a>]</td>
         <td style="text-align: center">[<a href="https://music.163.com/song?id=456185555&userid=96635261">mp3</a>]</td>
     </tr>
     <tr>
-        <td>心做し/Kokoronashi - 双笙 / Shuang Sheng</td>
+        <td>心做し/ Kokoronashi - 双笙 / Shuang Sheng</td>
         <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=NFVWSq_H6n0">MV</a>]</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/27088269">mp3</a>]</td>
     </tr>
@@ -101,12 +101,12 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center">[<a href="https://music.163.com/song?id=1459950258&userid=96635261">mp3</a>]</td>
     </tr>
     <tr>
-        <td>02的爱恋－多多poi (Cover 约谈人参)</td>
+        <td>02的爱恋－多多 poi (Cover 约谈人参)</td>
         <td style="text-align: center">[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
         <td style="text-align: center">[<a href="https://music.163.com/song?id=1459950258&userid=96635261">mp3</a>]</td>
     </tr>
     <tr>
-        <td>歳月-雲流れ-Foxtail-Grass Studio</td>
+        <td>歳月-雲流れ - Foxtail-Grass Studio</td>
         <td style="text-align: center">[<a href="">MV</a>] | [<a href="">mp4</a>]</td>
         <td style="text-align: center">[<a href="https://music.163.com/song?id=730631&userid=96635261">mp3</a>]</td>
     </tr>
