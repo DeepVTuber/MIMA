@@ -66,6 +66,11 @@ OpenVTuber - 虚拟アイドル共享计划
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/54734362">mp3</a>]</td>
     </tr>
     <tr>
+        <td>极乐净土 / 極樂淨土－Garnidelia</td>
+        <td style="text-align: center">[<a href="https://www.youtube.com/watch?v=EEMwA8KZAqg">MV</a>]　</td>
+        <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/73008313">mp3</a>]</td>
+    </tr>
+    <tr>
         <td>東京サマーセッション | 东京夏日相会 - 相宮零 / 清水達哉</td>
         <td style="text-align: center">[<a href="https://www.bilibili.com/video/BV1Zk4y1y7ji?from=search&seid=14483713028887372940">mp4</a>] | [<a href="https://www.bilibili.com/video/BV1Fx411Y7oZ?from=search&seid=14483713028887372940">mp4</a>]</td>
         <td style="text-align: center">[<a href="http://bd.kuwo.cn/play_detail/66325620">mp3</a>] | [<a href="https://music.163.com/song?id=409031156&userid=96635261">mp3</a>]</td>
