@@ -2,7 +2,7 @@
 
 # 未麻 MIMA
 
-OpenVTuber - 虚拟アイドル共享计划
+[OpenVTuber - 虚拟アイドル共享计划](https://github.com/DeepVTuber/DeepVTuber)
 
 <br>
 <div align="center">
