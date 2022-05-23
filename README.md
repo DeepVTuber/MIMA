@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-    <img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2020%2F0502%2Fa0853eecp00q9pd8o00dhd200j400arg00ic00ab.png&thumbnail=650x2147483647&quality=80&type=jpg" alt="Perfect Blue ">
+    <img src="https://user-images.githubusercontent.com/29084184/169810558-e0883c0d-4c67-473f-96d3-5aca218f8659.png" alt="Perfect Blue ">
     <br><i>"Perfect Blue" OST (by Masahiro Ikumi)</i>
 </div>
 <br>
@@ -204,6 +204,7 @@
 <br>
 
 ## ライセンス / LICENCE
+
 
 <br>
 
